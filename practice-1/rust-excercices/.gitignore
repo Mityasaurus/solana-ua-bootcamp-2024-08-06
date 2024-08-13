@@ -1,0 +1,29 @@
+# Бинарные файлы
+/target/
+**/*.rs.bk
+
+# Файлы конфигурации IDE
+/.idea/
+/.vscode/
+/*.code-workspace
+
+# Файлы среды исполнения
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.pid
+*.seed
+*.tar.gz
+*.lock
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы зависимостей и кеша
+Cargo.lock
+
+# Файлы окружения
+.env

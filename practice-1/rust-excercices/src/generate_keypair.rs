@@ -1,5 +1,5 @@
-use solana_sdk::signature::{Keypair, Signer};
 use base58::ToBase58;
+use solana_sdk::signature::{Keypair, Signer};
 
 pub fn generate() {
     let keypair = Keypair::new();
